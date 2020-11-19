@@ -3,6 +3,9 @@ name = "min-id"
 version = "0.1.0"
 authors = ["Dmitriy Cherchenko"]
 license = "Apache-2.0"
+description = "A function for generating random IDs in the base-58 alphabet"
+homepage = "https://github.com/dchenk/min-id"
+repository = "https://github.com/dchenk/min-id"
 edition = "2018"
 
 [dependencies]
